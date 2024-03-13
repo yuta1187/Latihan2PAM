@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Latihan2PAM</string>
+    <string name="button_name">Button</string>
+    <string name="primary_btn">Primary Button</string>
+    <string name="success_btn">Success Button</string>
+    <string name="warning_btn">Warning Button</string>
+    <string name="my_image_description">AYAM BAKAR</string>
+</resources>

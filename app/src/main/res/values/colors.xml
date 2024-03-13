@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#7E91A8</color>
+    <color name="bg2">#75256D</color>
+    <color name="border1">#EA1C3A</color>
+    <color name="border2">#AA2E08</color>
+    <color name="border3">#4EB828</color>
+    <color name="border4">#15B3A0</color>
+    <color name="custom_btn_text_color">#DAC01E</color>
+    <color name="colorPrimary">#185DE4</color>
+    <color name="colorSuccess">#5A90FB</color>
+    <color name="colorWarning">#1B3361</color>
+</resources>
