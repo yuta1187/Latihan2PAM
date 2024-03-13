@@ -11,9 +11,9 @@
     <Button
         android:layout_width="match_parent"
         android:layout_marginEnd="200dp"
+        android:layout_centerHorizontal="true"
         android:layout_height="wrap_content"
         android:text="@string/button_name"
-        android:layout_centerHorizontal="true"
         android:layout_marginTop="200dp"
         style="@style/ButtonStyle" />
 
@@ -49,11 +49,11 @@
         android:layout_height="match_parent">
 
         <ImageView
-            android:layout_width="120dp"
-            android:layout_height="120dp"
-            android:layout_marginHorizontal="145dp"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_marginHorizontal="125dp"
             android:layout_marginTop="460dp"
-            android:src="@drawable/my_image"
+            android:src="@drawable/gambar"
             android:contentDescription="@string/my_image_description" />
 
     </LinearLayout>
